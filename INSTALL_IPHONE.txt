@@ -1,0 +1,23 @@
+SANATANA DHAM INVENTORY - IPHONE PWA
+
+IMPORTANT: A PWA must be served from a web address (HTTPS). Do not open index.html directly from Google Drive as the installed app.
+
+Install:
+1. Upload the contents of this package to a static web host (for example GitHub Pages).
+2. Open the resulting HTTPS address in Safari on your iPhone.
+3. Tap Share > Add to Home Screen.
+4. Turn on "Open as Web App" if shown, then tap Add.
+5. Launch "SD Inventory" from the iPhone Home Screen.
+
+Data:
+- Working inventory and transactions are saved locally on that iPhone/web-app storage.
+- Use Download Backup File frequently. Save the JSON backup in Files/iCloud Drive/Google Drive.
+- Restore Backup loads a saved JSON backup back into the app.
+- Use the same installed PWA as the master store device.
+
+Included files:
+index.html
+manifest.webmanifest
+sw.js
+icon-192.png
+icon-512.png
